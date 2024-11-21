@@ -4,7 +4,7 @@
 <p><i> I'm Lakshay Solanki Computer Science Student at JSS. </i></p>
 <ul>
 <li> 🌱 <b>I’m currently learning</b> : <code>CSS</code>, <code>JavaSript</code></li>
-<li> 💬 <b>Ask me about</b>: <code>Problem Solving</code>, <code>Web Development</code>, <code>Git/Github</code>, <code>C</code></li>
+<li> 💬 <b>Ask me about</b>: <code>UI/UX</code>, <code>Web Development</code>, <code>Git/Github</code>, <code>C</code></li>
 <li> 📫 <b>How to reach me</b> : <code><a href="#">LinkedIn</a></code></li>
 <li> 😄 <b>Pronouns</b> : <code>He</code>/<code>His</code></li>
 </ul>
@@ -26,9 +26,9 @@
 <p align="center"> 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pulkit_Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pulkit-singh-54b08a27b/)](https://www.linkedin.com/in/pulkit-singh-54b08a27b)
+[![Linkedin Badge](https://img.shields.io/badge/-Lakshay_Solanki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lakshay-solanki-0a3160296)](https://www.linkedin.com/in/lakshay-solanki-0a3160296)
 [![Gmail Badge](https://img.shields.io/badge/-Lakshaysolanki203131@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:Lakshaysolanki203131@gmail.com)](mailto:Lakshaysolanki203131@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@pulkit_singh_7177-c14438?style=flat-square&logo=Instagram&logoColor=pink&link=https://www.instagram.com/pulkit_singh_7177/)](https://www.instagram.com/pulkit_singh_7177/)
+
 
 </p>
 <!-- <h2>📊 My Github Stats</h2>
@@ -45,7 +45,7 @@
 <br/>
 <br/>
 
-<p align="center">See More: https://metrics.lecoq.io/about/aceofspadejss</p>
+<p align="center">See More: https://metrics.lecoq.io/about/acefirefist121719</p>
 
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
 
