@@ -5,7 +5,7 @@
 <ul>
 <li> 🌱 <b>I’m currently learning</b> : <code>CSS</code>, <code>JavaSript</code></li>
 <li> 💬 <b>Ask me about</b>: <code>UI/UX</code>, <code>Web Development</code>, <code>Git/Github</code>, <code>C</code></li>
-<li> 📫 <b>How to reach me</b> : <code><a href="#">LinkedIn</a></code></li>
+<li> 📫 <b>How to reach me</b> : <code><a href="https://www.linkedin.com/in/lakshay-solanki-0a3160296">LinkedIn</a></code></li>
 <li> 😄 <b>Pronouns</b> : <code>He</code>/<code>His</code></li>
 </ul>
 <h2> Tech Stack :</h2>
